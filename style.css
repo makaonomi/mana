@@ -324,7 +324,7 @@ aside p {
 
 /* menu */
 #menu {
-  background-image: url(../images/menu-bg.jpg);
+  background-image: url(https://github.com/makaonomi/mana/blob/main/menu-bg.jpg);
   min-height: 100vh;
 }
 .menu-content {
@@ -360,7 +360,7 @@ aside p {
 
 /* CONTACT */
 #contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(https://github.com/makaonomi/mana/blob/main/contact-bg.jpg);
   /* background-size: cover; */
   min-height: 100vh;
 }
