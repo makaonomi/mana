@@ -191,7 +191,7 @@ img {
 }
 
 #home {
-  background-image: url(https://github.com/makaonomi/mana/blob/main/main-bg.jpg);
+  background-image: url(main-bg.jpg);
   /* background-blend-mode: luminosity;  */
   min-height:100vh;
 }
@@ -202,7 +202,7 @@ img {
 
 /* NEWS */
 #news {
-  background-image: url(../images/news-bg.jpg);
+  background-image: url(news-bg.jpg);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -324,7 +324,7 @@ aside p {
 
 /* menu */
 #menu {
-  background-image: url(https://github.com/makaonomi/mana/blob/main/menu-bg.jpg);
+  background-image: url(menu-bg.jpg);
   min-height: 100vh;
 }
 .menu-content {
@@ -360,7 +360,7 @@ aside p {
 
 /* CONTACT */
 #contact {
-  background-image: url(https://github.com/makaonomi/mana/blob/main/contact-bg.jpg);
+  background-image: url(contact-bg.jpg);
   /* background-size: cover; */
   min-height: 100vh;
 }
